@@ -8,7 +8,7 @@ Analyzed customer churn to understand **how big the problem is, who is leaving, 
 
 
 ## Key Findings
--  56.7% customers have churned — critical retention issue  
+-  56.7% customers have churned critical retention issue  
 -  Monthly contract users show **100% churn**  
 -  High support calls strongly indicate churn risk  
 -  Highest churn occurs in 13–24 month period  
